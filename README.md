@@ -25,7 +25,7 @@ Editor de Código Utilizado:
 
 - Sim, em dois editores.
 
-## Experiência nos Treinamentos de Tetes.
+## Experiência nos Treinamentos de Testes.
 
 OBS1: No Google Colabs no primeiro teste deu erros como descritos na documentação junto com os testes, como sugerido, fiz as mudanças para que rodasse a rede neural e no segundo teste já funcionou perfeitamente como mostrado no gráfico de plotagem. No próprio Google Colabs há a IA Generativa Gemini e assim foi acertando automáticamente.
 
