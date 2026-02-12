@@ -1,5 +1,5 @@
 # RNA PERCEPTRON IA CAMADA SIMPLES
-Aqui foi desenvolvido uma Rede neural de Camada Simples - Parte 1
+Aqui foi desenvolvido uma Rede Neural de Camada Simples - Parte 1
 
 ## Aqui foi desenvolvido junto com um curso de Redes Neurais de uma IA. 
 
@@ -37,4 +37,13 @@ OBS1: No Google Colabs no primeiro teste deu erros como descritos na documentaç
 
 OBS2: No Vs Code Não consegui concluir todo o teste, pois há uma diferença técnica entre o Google Colabs e o Vs Code (sobre o Python), assim dava erros sucessivos e perguntava para a IA Generativa Copilot no próprio Vs Code e me retornava o código correto, mas não executava por causa dessa diferença entre o Google Colabs e o Vs Code. Portanto, a Versão do Python que uso no Vs Code é 3.14 e a Versão do Google Colabs é 3.10 ou 3.11.
 
+## Documentação:
+
 - Print da Conversa com o Copilot do Vs Code:
+
+
+
+
+### ATENÇÃO!
+
+- Todos os códigos aqui descritos NÃO são de minha autoria, apenas repliquei o que aprendi nos estudos do curso como base de aprendizado em um projeto básico de rede neural. A Autoria é de um professor do IF-MG, porém pode ser adaptado aos diversos cenários.
