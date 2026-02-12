@@ -1,4 +1,4 @@
-# RNA-PERCEPTRON-IA-CAMADA-SIMPLES
+# RNA PERCEPTRON IA CAMADA SIMPLES
 Aqui foi desenvolvido uma Rede neural de Camada Simples - Parte 1
 
 ## Aqui foi desenvolvido junto com um curso de Redes Neurais de uma IA. 
@@ -20,10 +20,16 @@ Editor de Código Utilizado:
 ## Linguagem de Programação Utilizado:
 
 - Python
+  
+## Objetivos:
 
+- Treinar uma Rede Neural de Camada Simples em Output
+  
 ## Treinamento Testado:
 
 - Sim, em dois editores.
+
+
 
 ## Experiência nos Treinamentos de Testes.
 
