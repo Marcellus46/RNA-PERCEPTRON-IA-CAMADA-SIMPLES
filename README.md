@@ -1,5 +1,5 @@
-# RNA PERCEPTRON IA CAMADA SIMPLES
-Aqui foi desenvolvido uma Rede Neural de Camada Simples - Parte 1
+# RNA PERCEPTRON IA 1 CAMADA SIMPLES
+Aqui foi desenvolvido uma Rede Neural de  1 Camada Simples - Parte 1
 
 ## Aqui foi desenvolvido junto com um curso de Redes Neurais de uma IA. 
 
@@ -27,8 +27,7 @@ Editor de Código Utilizado:
   
 ## Treinamento Testado:
 
-- Sim, em dois editores.
-
+- Sim, em dois editores. (Google Colabs com sucesso, VsCode sem sucesso)
 
 
 ## Experiência nos Treinamentos de Testes.
